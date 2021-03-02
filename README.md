@@ -7,10 +7,10 @@
   </samp>
 </p>
 
-- 🔭 I’m currently working on A lot of Rustlang projects
-- 🥇 My main project is a low poly game in an open world.
-- 🌱 I’m currently learning Rustlang, Quarkus and looking to improve my coding skills.
-- 👯 I’m collaborating on Amethyst.rs.
+- 🔭 On my spare time I work on a lot of Rustlang projects 
+- 🥇 Always looking to improve my coding skills and be the best I can be
+- 🌱 Currently looking to improve my reactive programming skills
+- 👯 I’m collaborating on @Amethyst 
 
 ### Who am I ?
 
