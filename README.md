@@ -12,6 +12,6 @@
 
 ### Who am I ?
 
-I'm a simple passionate developer, tech lead at from Benefiz. I'm mainly working on Java, Godot and Javascript. I worked a lot with Kafka but for now I'm just a hobbyist until I switch mission. I also work with Kubernetes, and cloud solutions mainly GCP. 
+I'm a simple passionate developer, tech lead at Benefiz. I'm mainly working on Java, Javascript and Rust. 
 
 
